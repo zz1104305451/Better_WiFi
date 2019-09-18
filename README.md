@@ -1,4 +1,4 @@
-# Better_WiFi
+# Better_WiFi ![](https://i.imgur.com/nCXU68a.png)
 
 # Abstract
 在无线信道受到不同程度衰落的无线网络环境，有效的链路选择和信道编码可以获得可靠的传输。然而现有的无线通信策略并没有意识到不同的子载波在传输过程中经历了不同的衰落。
